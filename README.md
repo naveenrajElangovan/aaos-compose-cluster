@@ -228,7 +228,7 @@ AutoOS Platform
 ## Author
 
 **Naveenraj Elangovan** — Senior Android & Automotive OS Developer  
-[LinkedIn](https://linkedin.com/in/naveenrajelangovan) · [GitHub](https://github.com/naveenrajElangovan)  
+[LinkedIn]([https://linkedin.com/in/naveenrajelangovan]) · [GitHub](https://github.com/naveenrajElangovan)  
 Building Android Automotive OS platforms from AOSP source · Mexico City
 
 ---
